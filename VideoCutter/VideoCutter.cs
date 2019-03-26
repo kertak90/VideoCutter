@@ -20,7 +20,7 @@ namespace VideoCutter
         //Название аккаунта
         string storageAccountName = "hbgittest";
         //Ключ доступа
-        string Key = "up4w+hjVi6jo+yXPrwi1t16G8sBPWZEocCqRMSzlaaJ2nntWfXvd3Ondk9J52FlxSLOm21fZRe26w14UcMQjLA==";        
+        string Key = "";        
 
         CloudStorageAccount cloudStorageAccount;                                //Объявили строку подключения
         CloudBlobClient blobClient;                                             //Объявили БлобКлиент
